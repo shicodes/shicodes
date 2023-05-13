@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shicodes
-- 👀 I’m interested in all things Python/Data Science/Java
-- 🌱 I’m currently learning the Flask microframework for web dev.
+- 👀 I’m interested in all things Python/Data Science
+- 🌱 I’m currently learning the Flask microframework for web dev and all things Data Science.
 - 💞️ I’m looking to collaborate on absolutely anything! 
 - 📫 How to reach me shivangi.saini@hotmail.com
 
