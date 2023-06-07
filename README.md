@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shicodes
-- 👀 I’m interested in all things Python/Data Science
+- 👀 I’m interested in all things Python/Data Science and web app dev
 - 🌱 I’m currently learning the Django microframework for web dev and all things Data Science.
 - 💞️ I’m looking to collaborate on absolutely anything! 
 - 📫 How to reach me shivangi.saini@hotmail.com
