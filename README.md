@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shicodes
-- 👀 I’m interested in all things Python/Data Science
+- 👀 I’m interested in all things Python & Data Engineering
 
 <!---
 shicodes/shicodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
